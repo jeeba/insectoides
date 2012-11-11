@@ -1,4 +1,4 @@
-battle-ants
+insectoides
 ===========
 
 Archivos del Juego Tutorial Battle Ants de taurencreate.blogspot.com
