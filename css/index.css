@@ -1,0 +1,31 @@
+/* 
+    Document   : index.css
+    Created on : 02/12/2012, 08:35:26 PM
+    Author     : windows7
+    Description:
+        Archivo Basico para el Juego Insectoides
+*/
+
+
+/****************************
+GENERAL
+****************************/
+body{
+    background:black;
+    color:white;
+}
+
+#loginFormWrapper{
+background:#845942;
+color:white;
+}
+
+.columna{
+    background:#C67927;
+    width: 200px;
+    margin:10px;
+}
+
+#supercolumna.columna{
+    background:green;
+}
